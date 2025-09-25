@@ -1,0 +1,4 @@
+langchain-ollama
+mcp-use
+fastmcp
+pymongo
