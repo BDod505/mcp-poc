@@ -1,7 +1,7 @@
 import random
 from pymongo import MongoClient
 
-client = MongoClient("mongodb+srv://admin:admin7466@sh0o0lin-tech.bg7wyfm.mongodb.net/")
+client = MongoClient("mongodb+srv://admin:admin1234@<mongodb-server>/")
 db = client["myshop"]
 collection = db["products"]
 
